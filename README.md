@@ -1,2 +1,2 @@
 # Roshambo-game
-Rock, Paper, Scissors. The familiar game of Rock, Paper, Scissors is played like this: at the same time, two players display one of three symbols: a rock, paper, or scissors. A rock beats scissors, scissors beat paper by cutting it, and paper beats rock by covering it.
+This is a simple Rock-Paper-Scissors game built in HTML , CSS and javascript. The game allows a user to play against the computer, where the Computer's choice  randomly generated
